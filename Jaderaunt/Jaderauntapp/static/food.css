@@ -1,0 +1,58 @@
+.layout{
+width:1450px;
+margin:auto;
+padding:20px;
+font-family:Georgia;
+background-color: cornflowerblue;
+background-size:cover;
+}
+
+.navigation{
+width:500px;
+margin-left:auto;
+border:2px solid black;
+background:rgb(44, 134, 169);
+padding:12px;
+text-align:center;
+word-spacing:60px;
+}
+
+.menuTitle{
+font-size:45px;
+margin-top:40px;
+font-family:Verdana;
+}
+
+.foodList{
+display:flex;
+justify-content:center;
+gap:50px;
+margin-top:40px;
+}
+
+.food{
+background:teal;
+padding:20px;
+border-radius:10px;
+text-align:center;
+width:250px;
+}
+
+.food img{
+width:100%;
+height:180px;
+object-fit:cover;
+border-radius:8px;
+}
+
+.food h3{
+margin-top:10px;
+font-size:20px;
+}
+
+.footer{
+margin-top:60px;
+background:#4680c2;
+text-align:center;
+padding:5px;
+}
